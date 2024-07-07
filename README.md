@@ -1,6 +1,6 @@
 # millida-comment-creator
 
-The Millida Comment Generator automates the process of creating comments on the Millida.net platform using HTTTP's proxies from `proxies.txt`.
+The Millida Comment Generator automates the process of creating comments on the Millida.net platform using HTTP's proxies from `proxies.txt`.
 
 ## Table of Contents
 
