@@ -27,3 +27,13 @@ The Millida Comment Generator automates the process of creating comments on the 
    Edit `config.json` to set the `server_Id` for Millida.net.
    Ensure `headers` are correctly configured.
    Set `use_proxy` to true if using proxies, and specify the `proxy_file`.
+
+4. Prepare comment data:
+   
+   Populate `comment_texts.txt` with various comments to be randomly sent.
+
+5. Set up author IDs:
+
+   Input `author IDs` into author_ids.txt for use in comments.
+
+## Usage
