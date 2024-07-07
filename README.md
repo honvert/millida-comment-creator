@@ -39,4 +39,15 @@ The Millida Comment Generator automates the process of creating comments on the 
 python3 main.py
 ```
 
-The script will initiate the login process using configured accounts and proxies, and randomly send comments from `comment_texts.txt`.
+  The script will initiate the login process using configured accounts and proxies, and randomly send comments from `comment_texts.txt`.
+
+## Configuration
+`config.json`: Contains URLs, headers, cookies, proxy settings, and file paths for accounts and comments.
+
+## Logging
+Logs are stored in `log.txt` for tracking script execution.
+Logs are also output to the `terminal` for real-time monitoring
+
+## Author
+Author: [honvert]
+Contact: [hongvertin@gmail.com]
