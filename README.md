@@ -39,7 +39,7 @@ The Millida Rating (Minecraft Servers Monitoring) Comment Generator automates th
    python3 main.py
    ```
 
-  The script will initiate the login process using configured accounts and proxies, and randomly send comments from `comment_texts.txt`.
+   The script will initiate the login process using configured accounts and proxies, and randomly send comments from `comment_texts.txt`.
 
 ## Configuration
   `config.json`: Contains URLs, headers, cookies, proxy settings, and file paths for accounts and comments.
