@@ -49,5 +49,5 @@ python3 main.py
   Logs are also output to the `terminal` for real-time monitoring
 
 ## Author
-  Author: honvert
-  Contact: [hongvertin@gmail.com]
+  - Author: honvert
+  - Contact: [hongvertin@gmail.com]
