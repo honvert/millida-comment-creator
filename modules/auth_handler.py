@@ -1,4 +1,4 @@
-// del / not needed
+# del / not needed
 
 import requests
 import random
