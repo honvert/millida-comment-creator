@@ -16,7 +16,14 @@ The Millida Comment Generator automates the process of creating comments on the 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/honvert/millida-comment-generator.git
-   cd millida-comment-generator```
+   cd millida-comment-generator
+   ```
 2. **Install dependencies**:
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
+   ```
+3. **Configure the script**:
+   Edit `config.json` to set the `server_Id` for Millida.net.
+   Ensure cookies and headers are correctly configured.
+   Set use_proxy to true if using proxies, and specify the proxy_file.
+   Specify the account_file containing login credentials.
