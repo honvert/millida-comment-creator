@@ -16,4 +16,7 @@ The Millida Comment Generator automates the process of creating comments on the 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/honvert/millida-comment-generator.git
-   cd millida-comment-generator
+   cd millida-comment-generator```
+2. **Install dependencies**:
+   ```bash
+   pip install -r requirements.txt```
