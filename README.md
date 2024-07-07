@@ -20,7 +20,7 @@ The Millida Comment Generator automates the process of creating comments on the 
    ```
 2. **Install dependencies**:
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 3. **Configure the script**:
    
@@ -32,8 +32,11 @@ The Millida Comment Generator automates the process of creating comments on the 
    
    Populate `comment_texts.txt` with various comments to be randomly sent.
 
-5. Set up author IDs:
-
-   Input `author IDs` into author_ids.txt for use in comments.
-
 ## Usage
+1. Run the script main.py:
+
+```bash
+python3 main.py
+```
+
+The script will initiate the login process using configured accounts and proxies, and randomly send comments from `comment_texts.txt`.
