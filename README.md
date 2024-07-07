@@ -35,9 +35,9 @@ The Millida Rating (Minecraft Servers Monitoring) Comment Generator automates th
 ## Usage
 1. Run the script main.py:
 
-```bash
-python3 main.py
-```
+   ```bash
+   python3 main.py
+   ```
 
   The script will initiate the login process using configured accounts and proxies, and randomly send comments from `comment_texts.txt`.
 
