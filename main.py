@@ -1,7 +1,7 @@
 import json
 import threading
 from queue import Queue
-// from modules.auth_handler import login
+# from modules.auth_handler import login
 from modules.comment_handler import post_comment
 from modules.proxy_handler import load_proxies
 from modules.log_handler import setup_logger, log_info, log_error
