@@ -50,4 +50,3 @@ The Millida Rating (Minecraft Servers Monitoring) Comment Generator automates th
 
 ## Author
   - Author: honvert
-  - Contact: [hongvertin@gmail.com]
