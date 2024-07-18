@@ -13,5 +13,5 @@
     "proxy_file": "proxies.txt",
     "account_file": "accounts.txt",
     "log_file": "log.txt",
-    "server_id": "294"
+    "server_id": "0"
 }
