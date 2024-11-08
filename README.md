@@ -1,3 +1,5 @@
+# Archive, Millida Rating is closed
+
 # Millida Rating Comment Generator
 
 The Millida Rating (Minecraft Servers Monitoring) Comment Generator automates the process of creating comments on the Millida.net platform using HTTP's proxies from `proxies.txt`.
